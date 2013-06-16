@@ -1,7 +1,7 @@
 'File:         FindTheText.vbs 
-'Description:  Поиск файлов, содержащих текст из буфера обмена 
+'Description:  РџРѕРёСЃРє С„Р°Р№Р»РѕРІ, СЃРѕРґРµСЂР¶Р°С‰РёС… С‚РµРєСЃС‚ РёР· Р±СѓС„РµСЂР° РѕР±РјРµРЅР° 
 'Requirements: WSH Helper for TC
-'Installation: Перетащить на панель TC
+'Installation: РџРµСЂРµС‚Р°С‰РёС‚СЊ РЅР° РїР°РЅРµР»СЊ TC
 'Copyright:    (c) 2013, Kibroma
 
 Option Explicit 
